@@ -80,3 +80,5 @@ function loadAuthorIntoDropDown() {
     drowpDownAuthorList.appendChild(authorOption);
   }
 }
+
+// defines a function to display a book´s info in the DOM
